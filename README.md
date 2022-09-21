@@ -16,4 +16,4 @@ Advanced
 # Programining Language 
 Python
 # Tools 
-Jupyter notebook, Power BI, Ms Excel
+Kaggle, Power BI, Ms Excel
