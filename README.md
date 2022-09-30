@@ -17,3 +17,5 @@ Advanced
 Python
 # Tools 
 Kaggle, Power BI, Ms Excel
+# Linkedin Post 
+https://www.linkedin.com/posts/activity-6978220639383932928-BZaA?utm_source=share&utm_medium=member_desktop
