@@ -18,4 +18,4 @@ Python
 # Tools 
 Kaggle, Power BI, Ms Excel
 # Linkedin Post 
-https://www.linkedin.com/posts/activity-6978220639383932928-BZaA?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/sikha-pandey-9b7a8b128_github-sikha-95heart-disease-analysis-activity-6981492257145196544-g0rf?utm_source=share&utm_medium=member_desktop
