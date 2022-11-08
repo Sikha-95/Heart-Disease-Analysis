@@ -16,6 +16,6 @@ Advanced
 # Programining Language 
 Python
 # Tools 
-Kaggle, Power BI, Ms Excel
+Jupyter Notebook, Power BI, Ms Excel
 # Linkedin Post 
 https://www.linkedin.com/posts/sikha-pandey-9b7a8b128_github-sikha-95heart-disease-analysis-activity-6981492257145196544-g0rf?utm_source=share&utm_medium=member_desktop
